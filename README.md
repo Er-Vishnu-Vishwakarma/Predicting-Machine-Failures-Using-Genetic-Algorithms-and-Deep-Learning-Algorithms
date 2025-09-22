@@ -1,0 +1,2 @@
+# Predicting-Machine-Failures-Using-Genetic-Algorithms-and-Deep-Learning-Algorithms
+This project study uses a Predictive Maintenance Dataset from the UCI repository to predict and classify machine failures.The study has one objectives: checking deep learning methods for better accuracy.This study explores the integration of Genetic Algorithms with Deep Learning algorithms for predictive maintenance using the AI4I 2020 dataset.
